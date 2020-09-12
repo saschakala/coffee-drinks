@@ -1,8 +1,10 @@
 # CoffeeDrinks
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/coffee_drinks`. To experiment with that code, run `bin/console` for an interactive prompt.
+A database of different espresso drinks and their coffee to water to milk ratios (can be viewed by whether or not the drink contains milk for the lactose conscious).
 
-TODO: Delete this and the text above, and describe your gem
+...that plus a few surprises. 
+
+Inspired by Bandersnatch.
 
 ## Installation
 
@@ -22,7 +24,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Entertainment.
 
 ## Development
 
