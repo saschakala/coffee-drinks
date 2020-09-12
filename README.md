@@ -6,6 +6,10 @@ A database of different espresso drinks and their coffee to water to milk ratios
 
 Inspired by Bandersnatch.
 
+## Commmit History
+
+This gem was created by uploading a finished project that was completed in another repo. For the commit history please see: https://github.com/saschakala/cli-project
+
 ## Installation
 
 Add this line to your application's Gemfile:
