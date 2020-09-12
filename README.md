@@ -1,3 +1,5 @@
+*This gem was created by uploading a finished project that was completed in another repo. For the full commit history please see: https://github.com/saschakala/cli-project*
+
 # CoffeeDrinks
 
 A database of different espresso drinks and their coffee to water to milk ratios (can be viewed by whether or not the drink contains milk for the lactose conscious).
@@ -5,10 +7,6 @@ A database of different espresso drinks and their coffee to water to milk ratios
 ...that plus a few surprises. 
 
 Inspired by Bandersnatch.
-
-## Commit History
-
-This gem was created by uploading a finished project that was completed in another repo. For the full commit history please see: https://github.com/saschakala/cli-project
 
 ## Installation
 
